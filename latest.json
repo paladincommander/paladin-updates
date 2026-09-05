@@ -1,8 +1,8 @@
 {
-    "version":  "0.620",
-    "tag":  "v0.620",
-    "file":  "v0.620.zip",
-    "download_url":  "https://github.com/paladincommander/paladin-updates/releases/download/v0.620/v0.620.zip",
-    "sha256":  "a86e55209f217bac4121c94bfec810e3660db55394a816bdb901a38865512158",
-    "published_at":  "2026-09-04T22:45:30Z"
+    "version":  "0.636",
+    "tag":  "v0.636",
+    "file":  "v0.636.zip",
+    "download_url":  "https://github.com/paladincommander/paladin-updates/releases/download/v0.636/v0.636.zip",
+    "sha256":  "9c1273e781db2b14a70aebc0382a6e4df4c37f7d5826042b5aaea425a0f6392e",
+    "published_at":  "2026-09-05T14:24:53Z"
 }
